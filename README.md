@@ -1,4 +1,4 @@
-itle: Portfolio Optimization of Indian Equities using the Markowitz Efficient Frontier
+Portfolio Optimization of Indian Equities using the Markowitz Efficient Frontier
 By: Srivatsa Yesentarao
 
 This project applies the foundational principles of Modern Portfolio Theory (MPT) to a real-world Indian equity portfolio. Using historical data of 10 diversified large-cap stocks (TCS, Infosys, HDFC Bank, ITC, Reliance, etc.), I simulated 100,000 portfolios via Monte Carlo simulation to visualize the Efficient Frontier and identify the optimal risk-return allocation using the Sharpe Ratio as the objective function.
